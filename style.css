@@ -7,7 +7,7 @@ body {
 
 header {
     min-height: 10vh;
-    background-color: rgb(65, 65, 65);
+    background-color: rgb(78, 78, 78);
 }
 
 main {
@@ -18,7 +18,7 @@ main {
 
 footer {
     min-height: 15vh;
-    background-color: rgb(54, 54, 54);
+    background-color: rgb(105, 105, 105);
 }
 
 .logo {
@@ -64,4 +64,14 @@ width: 80vw;
 .photo {
     width: 100%;
     
+}
+
+.err {
+    color: azure;
+    padding-left: 50%;
+}
+
+.phh {margin-left: 45%;
+width: 20%;
+
 }
